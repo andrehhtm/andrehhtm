@@ -1,0 +1,21 @@
+{
+  "name": "André Ramos",
+  "website": "https://andreramos.dev",
+  "github": "https://github.com/andrehhtm",
+  "linkedin": "https://linkedin.com/in/andrehhtm",
+  "facebook": "https://facebook.com/andrehhtm",
+  "instagram": "https://instagram.com/andreramos.dev",
+  "twitch": "https://twitch.tv/andreramos_dev",
+
+  "company": [
+    {
+      "name": "Bit Trainers",
+      "position": "Tech Lead & Software Developer",
+      "website": "https://bittrainers.com.br",
+      "social": {
+        "instagram": "https://instagram.com/bitt_app",
+        "linkedin": "https://www.linkedin.com/company/bittrainers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "andrehhtm",
+  "version": "1.0.0",
+  "description": "André Ramos, the person.",
+  "main": "./info.json",
+  "bin": {
+    "andrehhtm": "./andrehhtm.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "André Ramos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehhtm/andrehhtm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrehhtm/andrehhtm/issues"
+  },
+  "homepage": "https://github.com/andrehhtm/andrehhtm#readme"
+}
