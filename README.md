@@ -2,6 +2,8 @@
 
 > André Ramos, the person.
 
+![](https://raw.githubusercontent.com/andrehhtm/andrehhtm/master/andrehhtm.gif)
+
 ```console
 npx andrehhtm
 ```
